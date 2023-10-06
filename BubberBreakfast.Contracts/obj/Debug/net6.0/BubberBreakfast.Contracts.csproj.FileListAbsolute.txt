@@ -1,0 +1,12 @@
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\bin\Debug\net6.0\BubberBreakfast.Contracts.deps.json
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\bin\Debug\net6.0\BubberBreakfast.Contracts.dll
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\bin\Debug\net6.0\BubberBreakfast.Contracts.pdb
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\obj\Debug\net6.0\BubberBreakfast.Contracts.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\obj\Debug\net6.0\BubberBreakfast.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\obj\Debug\net6.0\BubberBreakfast.Contracts.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\obj\Debug\net6.0\BubberBreakfast.Contracts.AssemblyInfo.cs
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\obj\Debug\net6.0\BubberBreakfast.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\obj\Debug\net6.0\BubberBreakfast.Contracts.dll
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\obj\Debug\net6.0\refint\BubberBreakfast.Contracts.dll
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\obj\Debug\net6.0\BubberBreakfast.Contracts.pdb
+C:\Users\hp\Desktop\C# with FTS\Bubber Breakfast First API Trial\BubberBreakfast.Contracts\obj\Debug\net6.0\ref\BubberBreakfast.Contracts.dll
