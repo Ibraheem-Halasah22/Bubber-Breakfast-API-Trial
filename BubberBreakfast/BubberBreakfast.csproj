@@ -7,7 +7,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="Controllers\" />
+    <ProjectReference Include="..\BubberBreakfast.Contracts\BubberBreakfast.Contracts.csproj" />
   </ItemGroup>
 
 </Project>
